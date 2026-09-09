@@ -12,6 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=Manajain20&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manajain20&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manajain20/Manajain20/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manajain20/Manajain20/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manajain20/Manajain20/output/github-snake.svg">
+</picture>
+
 ---
 [![](https://komarev.com/ghpvc/?username=Manajain20&icon=0&color=0)](https://visitcount.itsvg.in)
 
